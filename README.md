@@ -3,8 +3,8 @@ This repo documents my journey into cybersecurity and cloud security, from certi
 ## Structure
 
 - **`Certifications/`** — Notes and details on certifications completed or in progress (Google Cybersecurity Professional Certificate, and others as I go).
-- **`labs/`** — Write-ups of hands-on labs (Suricata IDS, Azure cloud security setup, Linux system administration/recovery). *Currently being added.*
-- **`projects/`** — Small applied projects (e.g. a Python script for parsing security logs, packet capture analysis). *Currently being added.*
+- **`Labs/`** — Write-ups of hands-on labs (Suricata IDS, Azure cloud security setup, Linux system administration/recovery). *Currently being added.*
+- **`Projects/`** — Small applied projects (e.g. a Python script for parsing security logs, packet capture analysis). *Currently being added.*
 
 ## About me
 
