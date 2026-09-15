@@ -6,8 +6,8 @@ Issuer: Coursera-Google
 
 ![First Course](Images/Foundations-of-Cybersecurity.jpg)
 
-![Second Course](Images/Play-it-safe.jpg)
+![Second Course](Images/Play-it-Safe.jpg)
 
 ![Third Course](Images/Connect-and-Protect.jpg)
 
-![Fourth Course](Images/Tools-of-trade.jpg)
+![Fourth Course](Images/Tools-of-Trade.jpg)
